@@ -8,14 +8,13 @@ Project build to create an API from scratch that allows users to create new user
   2. [Features](#features)
   3. [Contributing](#contributing)
   4. [Test](#test)
-  5. [Usage](#usage)
-  6. [Credits](#credits)
-  7. [Licenses](#licenses)
-  8. [Github](#github)
-  9. [Email](#email)
+  5. [Credits](#credits)
+  6. [Licenses](#licenses)
+  7. [Github](#github)
+  8. [Email](#email)
   
 ## Installation
-To run the code, you will need to clone the repository (git@github.com:sjbossa/noSQL_Project_18.git). Run npm install to load and install all the required dependencies. Finally, run the "npm start" command from your CLI to start the server.
+To run the code, you will need to clone the repository (git@github.com:sjbossa/noSQL_Project_18.git) (https://github.com/sjbossa/noSQL_Project_18). Run npm install to load and install all the required dependencies. Finally, run the "npm start" command from your CLI to start the server.
 
 ## Features
 This is an API for a social network web application where users can share their thoughts, react to friends' thoughts, and create a friend list. It uses Express.js for routing, a MongoDB database, the Mongoose ODM, and native JavaScript Date object to format timestamps. The seed data is created using Insomnia.
@@ -24,7 +23,7 @@ This is an API for a social network web application where users can share their 
 There are no requests for contributions to this repository at this time. This was an individual assignment, but feel free to continue the build as you see fit.
 
 ## Test
-undefined
+There were no tests used for this build other than connectivity testing as needed.
 
 ## Usage
 Please see description and additional features above.
@@ -36,10 +35,8 @@ This was an individual assignment and not assigned to others as a group project.
 MIT
 
 ##Questions
-
+If you have any questions, please feel free to contact me at:
 Github: [sjbossa](https://github.com/sjbossa)
-
-
 Contact Email: scott.bossard@gmail.com
 
 
